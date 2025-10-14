@@ -1,0 +1,6 @@
+homework-1:
+  train:
+    x: "/home/victor/Datasets/songs-prediction-2025/train_x.csv" 
+    y: "/home/victor/Datasets/songs-prediction-2025/train_y.csv" 
+  test:
+    x: "/home/victor/Datasets/songs-prediction-2025/test_x.csv" 
