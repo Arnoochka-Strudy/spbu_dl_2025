@@ -4,3 +4,10 @@ homework-1:
     y: "/home/victor/Datasets/songs-prediction-2025/train_y.csv" 
   test:
     x: "/home/victor/Datasets/songs-prediction-2025/test_x.csv" 
+homework-2:
+  labels: "/home/victor/Datasets/one-piece-classification-2025/labels.json"
+  annotation: "/home/victor/Datasets/one-piece-classification-2025/train_annotations.csv"
+  submission: "/home/victor/Datasets/one-piece-classification-2025/submission.csv"
+  image-path:
+    train: "/home/victor/Datasets/one-piece-classification-2025/splitted/train"
+    test: "/home/victor/Datasets/one-piece-classification-2025/splitted/test"
